@@ -1,3 +1,4 @@
 # bookstore
 
-<h3>CSE-326 Project</h3>
+<h3>BOOK LIBRARY</h3>
+<p>A user-friendly website in which e-books are availaible for bibliophiles. User can get book preview before start reading the book.</p>
